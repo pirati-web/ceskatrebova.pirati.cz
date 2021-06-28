@@ -5,6 +5,7 @@ fullname: Jan Moravec
 category:
   - pak
 img: people/Jan_Moravec.png
+heroImg: header/background.jpg
 description: člen Pirátské strany
 candidatedesc: elektro
 ordpak: 9

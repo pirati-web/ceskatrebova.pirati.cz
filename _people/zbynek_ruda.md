@@ -5,6 +5,7 @@ fullname: Zbyněk Ruda
 category:
   - zast
 img: people/zbynekruda.png
+heroImg: header/background.jpg
 description: zastupitel Česká Třebová, člen MS Českotřebovsko
 candidatedesc: Marketingový manažer
 zast: 4

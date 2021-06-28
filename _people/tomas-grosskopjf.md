@@ -5,6 +5,7 @@ fullname:  Tomáš Grosskopf
 category:
   - pms
 img: people/tomas-grosskopf.png           # 165 x 220
+heroImg: header/background.jpg
 description: 1.místopředseda MS Českotřebovsko
 candidatedesc: pedafog
 ordpak: 8

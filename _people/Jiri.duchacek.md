@@ -5,6 +5,7 @@ fullname: Jiří Ducháček
 category:
   - zast
 img: people/jiri.duchacek.jpg
+heroImg: header/background.jpg
 description: Předseda Krajského sdružení, zastupitel Pardubického kraje
 candidatedesc: IT manager
 zast: 1

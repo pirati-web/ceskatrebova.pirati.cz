@@ -6,6 +6,7 @@ category:
   - pak
   - kontaktni_osoba
 img: people/martinsaifrt.png
+heroImg: header/background.jpg
 description: Vedoucí krajského mediálního odboru Pardubický kraj, člen Pirátské strany
 candidatedesc: PR manager, Komunitní pracovník, Vedoucí krajského mediálního odboru Pardubický kraj
 ordpak: 1

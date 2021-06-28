@@ -5,6 +5,7 @@ fullname: Pavel Záleský
 category:
   - pak
 img: people/pavel-zalesky.JPG
+heroImg: header/background.jpg
 description: příznivec Pirátské strany
 candidatedesc: lektor dopravy
 ordpak: 10

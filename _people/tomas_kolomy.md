@@ -5,6 +5,7 @@ fullname: Tomáš Kolomý
 category:
   - zast
 img: people/ppp.jpg
+heroImg: header/background.jpg
 description: člen Pirátské strany
 candidatedesc: zastupitel Rudoltice, člen kontrolního výboru a komise životního prostředí, člen MS Českotřebovsko
 zast: 5

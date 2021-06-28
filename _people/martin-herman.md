@@ -5,6 +5,7 @@ fullname:  Martin Herman
 category:
   - pak
 img: people/martin-herman.jpg
+heroImg: header/background.jpg
 description: člen Pirátské strany
 candidatedesc: seřizovač lisu
 ordpak: 7

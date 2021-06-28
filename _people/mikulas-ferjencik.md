@@ -7,6 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mo-contact
 - poslanec-pce
 img: people/mikulas-ferjencik.jpg   # 165 x 220
+heroImg: header/background.jpg
 description: Poslanec Parlamentu ČR za Pardubický kraj, vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 ordpak: 
 mail:

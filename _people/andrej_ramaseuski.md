@@ -5,6 +5,7 @@ fullname: Andrej Ramašeuski
 category:
   - zast
 img: people/andram.png
+heroImg: header/background.jpg
 description: Zastupitel Pardubického kraje, člen Republikového výboru Pirátů, člen Technického odboru Pirátů, člen MS Českotřebovsko
 candidatedesc: programator
 zast: 3

@@ -5,6 +5,7 @@ fullname: Stanislav Klát
 category:
   - pak
 img: people/Standa_Klat.png
+heroImg: header/background.jpg
 description: člen Pirátské strany
 candidatedesc: politolog
 ordpak: 11

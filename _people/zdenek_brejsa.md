@@ -4,7 +4,8 @@ name: Zdeněk Brejša
 fullname: Zdeněk Brejša
 category:
   - pak
-img: people/ppp.jpg       
+img: people/ppp.jpg
+heroImg: header/background.jpg
 description: člen Pirátské strany, MS Českotřebovsko
 candidatedesc: elektro
 ordpak: 12
