@@ -1,7 +1,7 @@
 ---
 layout: contacts
 title: Kontaktní informace
-description: Pirátská strana v Praze 11 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
+description: Pirátská strana v České Třebové je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
