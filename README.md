@@ -1,6 +1,5 @@
-# praha11.pirati.cz
+# ceskatrebova.pirati.cz
 
 
-[![Build Status](https://travis-ci.org/pirati-web/praha11.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/praha11.pirati.cz)
+[![Build Status](https://travis-ci.org/pirati-web/ceskatrebova.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/ceskatrebova.pirati.cz)
 
-Web Jižácké pirátské buňky.
