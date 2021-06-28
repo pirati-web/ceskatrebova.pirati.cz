@@ -5,7 +5,7 @@ title: Povolební strategie Pirátů Česká Třebová
 date: 2018-10-03T15:29:00.000Z
 tags: komunálky strategie
 author: Jiří Ducháček
-image: assets/img/posts/2018/vyjednavani.jpg
+image: posts/2018/vyjednavani.jpg
 published: true
 ---
 **Povolební strategie**

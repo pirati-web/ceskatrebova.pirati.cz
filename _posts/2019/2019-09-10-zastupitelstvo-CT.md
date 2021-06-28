@@ -5,7 +5,7 @@ title: Pozvánka na Zastupitelstvo města Česká Třebová
 date: 2019-09-10T07:20:00.000Z
 tags: zastupitelstvo  zprávy česká třebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/pozvánka ZM 092019.jpg
+image: posts/2019/pozvánka ZM 092019.jpg
 published: true
 ---
 **Pozvánka na Zastupitelstvo města Česká Třebová**

@@ -5,7 +5,7 @@ title: Založení MS Česká Třebová
 date: 2018-11-17T09:20:00.000Z
 tags: MS založení česká třebová
 author: Jiří Ducháček
-image: assets/img/posts/2018/zalozeni.jpg
+image: posts/2018/zalozeni.jpg
 published: true
 ---
 **Česká Třebová dalším přístavem Pirátů!!!**

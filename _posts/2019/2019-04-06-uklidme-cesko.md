@@ -5,7 +5,7 @@ title: Piráti uklízejí Česko.
 date: 2019-04-06T07:20:00.000Z
 tags: zpravy uklid priroda zachranme ceska trebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/uklid.jpg
+image: posts/2019/uklid.jpg
 published: true
 ---
 **Piráti uklízejí**

@@ -5,7 +5,7 @@ title: DĚKUJEME  ZA VAŠE HLASY !!
 date: 2019-05-27T07:20:00.000Z
 tags: volby  EU poslanci  česká trebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/dekujeme-ep.jpg
+image: posts/2019/dekujeme-ep.jpg
 published: true
 ---
 **DĚKUJEME  ZA VAŠE HLASY !!**

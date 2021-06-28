@@ -5,7 +5,7 @@ title: Reakce na článek v Českotřebovském deníku
 date: 2020-05-24T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
-image: assets/img/posts/2020/čtverec.jpg
+image: posts/2020/čtverec.jpg
 published: true
 ---
 

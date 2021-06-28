@@ -2,109 +2,69 @@
 layout: default
 ---
 
-<article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
-  <div class="row">
-    <div class="medium-12 columns">
-      <div class="o-section o-section--noSpaceBottom">
-        <div class="">
-          <div class="o-section-block o-section-block--fill">
-            <div class="o-section-inner">
-              <div class="medium-12 columns">
-                <!-- Article -->
-                <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
-                <header class="c-BasicPage-header">
-                  <h1 itemprop="headline" class="c-BasicPage__title"> {{page.title}} </h1>
-                  <div class="c-BasicPage__meta">
-                    <span itemprop="description" class="c-BasicPage__datePublished">
-                      <i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: "%d. %m. %Y" }}
-                      <meta itemprop="datePublished" content="{{page.date | date_to_xmlschema }}">
-                      <meta itemprop="dateModified" content=""> </span>
-                    <br class="hide-for-medium">
-                    <!-- Authors -->
-                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BasicPage__authors" itemscope="">
-                      <i class="fa fa-user" aria-hidden="true"></i>
-                      <span itemprop="name" class="c-BlogPosting-excerpt__author">{{page.author}}</span>
-                    </span>
-                    {% if page.tags %}
-                    <div class="c-BasicPage-tags">
-                      <span class="c-BasicPage-tags__headline">Tagy</span>
-                      <ul class="c-tag-list">
-                        {% for tag in page.tags %}
-                        <li>
-                          <a href="{{ tag | prepend: '/tags/#' | relative_url }}" class="c-tag">{{tag}}</a>
-                        </li>
-                        {% endfor %}
-                      </ul>
-                    </div>
-                    {% endif %}
-                  </div>
-                </header>
-              </div>
-            </div>
-          </div>
+<div class="container container--default py-8 lg:py-24">
+  <article itemtype="http://schema.org/BlogPosting" itemscope="">
+    <header>
+      <link itemprop="mainEntityOfPage" href="{{ page.url }}">
+      <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+      <meta itemprop="dateModified" content="">
+
+      <h1 itemprop="headline" class="head-alt-md md:head-alt-lg max-w-5xl mb-4">{{ page.title }}</h1>
+      <div class="flex flex-col md:flex-row md:items-center">
+        <div class="inline-flex divide-x flex-grow">
+          <span class="pr-2">{{ page.date | date: "%d. %m. %Y" }}</span>
+          <span class="pl-2" itemprop="author" itemtype="http://schema.org/Person" itemscope="">
+            <span itemprop="name">
+              {% include articles/author.html article=page %}
+            </span>
+          </span>
+        </div>
+        <div class="my-4">
+          {% if page.tags %}
+            {% for tag in page.tags %}
+              {% capture tagUrl %}/aktuality/stitky/{{ tag | slugify: "latin" }}/{% endcapture %}
+              {% include buttons/basic.html class="btn--grey-125 btn--condensed btn--hoveractive" cta=tag href=tagUrl %}
+            {% endfor %}
+          {% endif %}
         </div>
       </div>
-    </div>
-  </div>
-  {% if page.image %}
-  <div class="o-section-block o-section-block-fill">
-    <div class="c-BasicPage-headline-img">
-      <div class="c-BasicPage-headline-bg">
-        <img src="{{ page.image | relative_url }}" alt="{{page.title}}"> </div>
-      <div class="row small-collapse medium-uncollapse">
-        <div class="small-12 columns">
-          <div class="o-section-inner--medium">
-            <img src="{{ page.image | relative_url }}" alt="{{page.title}}"> </div>
+      {% if page.image %}
+        {% include headline-media.html image=page.image title=page.title youtubeVideoId=page.youtubeVideoId %}
+      {% endif %}
+    </header>
+
+    <div class="lg:flex mt-8 lg:space-x-16">
+      <div class="lg:w-2/3">
+      {% if page.tags %}
+        {% include tagline.html tags=page.tags %}
+      {% endif %}
+        <div itemprop="description" class="w-full content-block">
+          {{ content }}
         </div>
       </div>
-    </div>
-  </div>
-  {% endif %}
-  <div class="row o-section-block">
-    <div class="small-12 columns">
-      <div class="o-section o-section--noSpaceBottom">
-        <div class="">
-          <div class="o-section-block o-section-block--fill">
-            <div class="o-section-inner">
-              <div class="medium-12 large-8 columns">
-                <div itemprop="description" class="c-BasicPage-content">
-                  {{content}}
-                </div>
-              </div>
-              <div class="medium-12 large-4 columns">
-                <div class="c-widget-share-box c-widget-share-box--mediumstacked">
-                  <div class="c-widget-share-box-headline">Sdílení je aktem lásky</div>
-                  <div class="c-widget-share-box-content">
-                    <div class="c-widget-share-box__tweet">
-                      <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
-                      <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    </div>
-                    <div class="c-widget-share-box__fb">
-                      <div class="fb-like" data-href="{{page.url | relative_url}}" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
-                    </div>
-                  </div>
-                </div>
-                <!--
-                <div class="c-widget-simple-text c-widget-simple-text--stacked" id="relatives-box">
-                  <div class="c-widget-share-box-headline u-center">Kam dále?</div>
-                  <div class="c-widget-share-box-content">
-                    <ul id="relatives" />
-                  </div>
-                </div>
-                -->
-                <a href="//dary.pirati.cz" target="_blank">
-                  <div class="c-widget-share-box c-widget-share-box--directions c-widget-simple-text--stacked">
-                    <div class="c-widget-share-box-headline u-center">Kam dále?</div>
-                    <div class="c-widget-share-box-content u-center">
-                      Podpořte nás!
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-          </div>
+      <div class="pt-8 lg:w-1/3 md:pt-0">
+        <div class="space-y-8">
+          {% include sharebox.html %}
+
+          {% comment %}Optional infoboxes in the right row{% endcomment %}
+          {% if page.infoboxes %}
+            {% for infobox in page.infoboxes %}
+              {% include article-infobox.html content=infobox.content %}
+            {% endfor %}
+          {% endif %}
         </div>
       </div>
+
     </div>
-  </div>
-</article>
+  </article>
+
+  <section class="mt-16 md:mt-24">
+    <h1 class="head-alt-base md:head-alt-md pb-4">Další podobné články</h1>
+    {% assign posts = site.related_posts | slice:0,6 %}
+    {% include articles/list-responsive.html posts=posts %}
+    <div class="text-center mt-8 md:mt-16">
+      {% include buttons/icon.html cta="Zobrazit vše" class="text-xl" icon="ico--chevron-right" href="/aktuality/" %}
+    </div>
+  </section>
+
+</div>

@@ -5,7 +5,7 @@ title: Transparence u výběrových řízení ?
 date: 2019-02-21T07:20:00.000Z
 tags: zastupitelstvo  zprávy výberové řízení  česká třebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/vyber.jpg
+image: posts/2019/vyber.jpg
 published: true
 ---
 **Transparence u výběrových řízení ?**

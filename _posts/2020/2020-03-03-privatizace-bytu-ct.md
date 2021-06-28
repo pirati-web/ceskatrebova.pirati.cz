@@ -5,7 +5,7 @@ title: PRIVATIZACE MĚSTSKÝCH DOMŮ „JEZEVČÍK“ A „ČTVEREC“
 date: 2020-03-11T07:11:00.000Z
 tags: ceska-trebova 
 author: Piráti Česká Třebová
-image: assets/img/posts/2020/ctverec.png
+image: posts/2020/ctverec.png
 published: true
 ---
 

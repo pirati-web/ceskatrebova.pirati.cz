@@ -1,112 +1,159 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+administrator:
+  email: jan.suchanek@gmail.com, jiri.duchacek@pirati.cz
+github:
+  url: https://github.com/pirati-web/ceskatrebova.pirati.cz/
+  branch: master
+url: "https://ceskatrebova.pirati.cz"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Piráti Česká Třebová
 email: pardubicko@pirati.cz
-description: # this means to ignore newlines until "baseurl:"
-            Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ceskatrebova.pirati.cz" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 11, piráti na jižáku, Jižní Město
+
+organization:
+  name: Místní sdružení Pirátů Česká Třebová
+  shortName: Piráti Česká Třebová
+  email: pardubicko@pirati.cz
+  contactUid: 
+  phone: +420 
+  address: |
+    Na Moráni 3
+    120 00 Praha 2
+  #residenceImg: miscellaneous.jpg
+  mapLink: https://mapy.cz/s/2N7Yv
+  redmineLink: https://redmine.pirati.cz/projects/praha-11
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+  transparentAccountSpecificSymbol: 110111
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
+
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
+
+calendar:
+  # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
+  title: Nadcházející události
+  id: kddvdvu3adcjef2kro4j6mm838@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
+
+facebook:
+  profilePage: https://www.facebook.com/piratiCT/
+  loadSDK: true
+  appId: 1526197851008996
+
+twitter:
+  profile: PiratskaStrana
+  loadSDK: true
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/ceskatrebova.pirati.cz/
+  branch: master
+
+matomo:
+  loadSDK: true
+  siteId: 68
+
+forum:
+  page: https://forum.pirati.cz/pardubicky-kraj-g35.html
+
+youtube:
+  channel: UC_zxYLGrkmrYazYt0MzyVlA
+
+twitter:
+  loadSDK: true
+  profile: piratipraha
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
+
+############### SETTINSG #################
+
+theme: jekyll-theme-pirati
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-get-json
+theme: jekyll-theme-pirati
 
-paginate_path: "/aktuality/:num/"
-paginate: 11
+pagination:
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  trail: 7
 
 exclude:
-  - readme.md
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - bower.json
-  - gulpfile.js
-  - node_modules
-  - bower_components
+  - README.md
+  - docker-compose.yml
   - vendor
 
-sass:
-    style: compressed
-
-permalink: /tiskove-zpravy/:title.html
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    root: /clenove/
+    permalink: /clenove/:path/    
   program:
     output: true
-    permalink: /volby-2018/program/:title/
-  teams:
-    output: true
-    permalink: /pripoj-se/:title/
-  elections:
-    output: true
-    permalink: /volby/:path/
+    permalink: /volby/:path
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "page"
-      rbar: "people, foto"
+      layout: "person"
+      rbar:
+        - profile
+        - people
   -
     scope:
-      path: "_program/komunal2018"
+      path: "_posts"
     values:
-      layout: "page"
-      rbar: "program"
+      layout: "post"
   -
     scope:
-      path: "_program/psp2017"
+      path: "_program"
     values:
-      layout: "page"
-      rbar: "program program_item"
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
-  -
-    scope:
-      path: "_elections"
-    values:
-      layout: "kandidatka"
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
-administrator:
-    email: jiri.duchacek@pirati.cz
-
-calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
-fb_name: Piráti Česká Třebová
-fb: https://www.facebook.com/piratiCT/
-tw: PiratskaStrana
-instagramm: https://www.instagram.com/pirati.cz/
-gplus: https://plus.google.com/u/0/+piratskastrana
-
-emptyArray: []
-peoplesOnForum: https://forum.pirati.cz/pardubicky-kraj-g35.html
-
-jekyll_get_json:
-  - data: members
-    json: 'https://graph.pirati.cz/deadbeef-babe-f002-000000000599/members'
-
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - assets/js
+    - assets/img
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img

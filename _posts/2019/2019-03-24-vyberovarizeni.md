@@ -5,7 +5,7 @@ title: Transparentní výběrová řízení.
 date: 2019-03-24T07:20:00.000Z
 tags: zpravy vyberova rizeni ceska trebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/vyber2.png
+image: posts/2019/vyber2.png
 published: true
 ---
 **Udělejme výběrová řízení transparentnější!**

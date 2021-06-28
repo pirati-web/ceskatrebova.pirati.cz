@@ -5,7 +5,7 @@ title: Chceme nechat o využití veřejného prostoru rozhodovat občany
 date: 2020-02-27T07:11:00.000Z
 tags: zpravy zatupitele 
 author: Piráti Česká Třebová
-image: assets/img/posts/2020/ctvp.png
+image: posts/2020/ctvp.png
 published: true
 ---
 **Před několika dny město Česká Třebová oznámilo na sociálních sítích, že se přiblížíme trendu posledních let tím, že v parku Javorka bude zřízeno griloviště.

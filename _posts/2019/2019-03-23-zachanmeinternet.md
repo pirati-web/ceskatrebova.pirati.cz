@@ -5,7 +5,7 @@ title: Zachraňme internet !
 date: 2019-03-23T07:20:00.000Z
 tags: Internet zachranme svoboda bezcenzury
 author: Jiří Ducháček
-image: assets/img/posts/2019/internet.jpg
+image: posts/2019/internet.jpg
 published: true
 ---
 **Zachraňme internet!**

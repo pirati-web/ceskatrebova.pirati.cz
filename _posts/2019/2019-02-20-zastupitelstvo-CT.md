@@ -5,7 +5,7 @@ title: Koho (ne)zajímá rozpočet?
 date: 2019-02-20T07:20:00.000Z
 tags: zastupitelstvo  zprávy česká třebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/anone.png
+image: posts/2019/anone.png
 published: true
 ---
 **Koho (ne)zajímá rozpočet?**

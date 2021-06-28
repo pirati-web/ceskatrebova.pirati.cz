@@ -1,97 +1,24 @@
 ---
-layout: default
-img: brand/logo.svg
+layout: members
+title: Naši lidé
+description: Seznam předsednictva, členů a příznivců Pirátské strany na Praze 11.
+keywords: členové, členky, tým, příznivci
+viewMode: grouped # or alltogether
+redirect_from:
+  - /clenove/
+groups:
+  - name: Místní předsednictvo
+    category: pms
+    sort: ordpms
+  - name: Naši zastupitelé na Magistrátu hlavního města Prahy
+    category: mhmp
+    sort: ordpms    
+  - name: Členové
+    category: clenove
+    sort: ordPce
+  - name: Aktivní příznivci a příznivkyně
+    category: priznivci
+  - name: Naši delegáti do výborů a komisí
+    category: delegati
+
 ---
-{% include submenu.html %}
-<div class="row o-section-block o-section-block--divided">
-    <div class="medium-12 large-12 columns">
-        <section class="o-section">
-            <div class="o-section-inner">
-                <main class="o-section-block">
-                    <div class="c-BasicPage">
-                        <div class="c-BasicPage-content">
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#zastupitele" class="c-simple-accordion-title">POSLANCI PARDUBICKÉHO KRAJE</a>
-                                    <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
-                                        <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec-pce'" %}
-                                            {% include people/list-2col.html param=team %}
-					    {% if team == null %}<br>Zatím žádný zástupce{% endif %}
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-		<ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-<li class="c-simple-accordion-item is-active" data-accordion-item="">
-	<a href="#senat" class="c-simple-accordion-title">ZASTUPITELÉ MĚST A OBCÍ</a>
-                                    <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'zast'" | sort:"zast" %}
-                                        {% include people/list-2col.html param=team %}
-					{% if team == null %}<br>Zatím žádný zástupce{% endif %}
-                                    </div>
-                                </li>
-                            </ul>		
-				
-				
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-				<li class="c-simple-accordion-item is-active" data-accordion-item="">
-				<a href="#senat" class="c-simple-accordion-title">PŘEDSEDNICTVO MÍSTNÍHO SDRUŽENÍ</a>
-                                    <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"pms" %}
-                                        {% include people/list-2col.html param=team %}
-					{% if team == null %}<br>Zatím žádný zástupce{% endif %}
-                                    </div>
-                                </li>
-                            </ul>
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#senat" class="c-simple-accordion-title">NAŠI ČLENOVÉ</a>
-                                    <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordpak" %}
-                                        {% include people/list-2col.html param=team %}
-					{% if team == null %}<br>Zatím žádný zástupce{% endif %}
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </main>
-            </div>
-        </section>
-        <!-- /. o-section -->
-    </div>
-</div>
-{% comment %}
-# CSS_HACK: aby nebyl bílej proužek pod sliderem
-<div class="c-hero" style="margin-bottom: -1.5rem;position: relative;">
-{% endcomment %}
-<div class="c-hero">
-        <div class="row">
-            <div class="c-hero-container">
-            <div class="small-12 columns">
-                <div class="c-hero-block">
-                    <h1 class="c-hero__title">Naši lidé</h1>
-                </div>
-                <div class="c-hero-block c-hero-content u-js-hiddenBeforeLoad">
-                    <div class="c-hero-slider orbit" role="region" aria-label="Naši lidé" data-orbit="" data-use-m-u-i="false">
-                        <button class="orbit-previous">
-                            <span class="show-for-sr">Předchozí záložka</span>
-                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
-                        </button>
-                        <button class="orbit-next">
-                            <span class="show-for-sr">Další záložka</span>
-                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
-                        </button>
-                        <ul class="orbit-container">
-                            {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordcar" %}
-                            {% for person in team %}
-                            {% include people/carousel.html param='person' %}
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>

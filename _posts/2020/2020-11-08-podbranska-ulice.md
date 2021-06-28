@@ -5,7 +5,7 @@ title: Stížnosti na rekonstrukci Podbranské ulice
 date: 2020-10-25T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
-image: assets/img/posts/2020/uvodulice.jpg
+image: posts/2020/uvodulice.jpg
 published: true
 ---
 
@@ -22,6 +22,6 @@ pohne lepším směrem.
 
 **Budoucnost řešíme teď.**
 
-![Ulice1](/assets/img/posts/2020/ulice1.jpg)
+![Ulice1](/posts/2020/ulice1.jpg)
 
-![Ulice2](/assets/img/posts/2020/ulice2.jpg)
+![Ulice2](/posts/2020/ulice2.jpg)

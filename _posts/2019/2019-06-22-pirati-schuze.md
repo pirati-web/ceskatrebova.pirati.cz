@@ -5,7 +5,7 @@ title: VEŘEJNÁ SCHŮZE MS ČESKOTŘEBOVSKO
 date: 2019-06-21T07:20:00.000Z
 tags: piráti schuze česká trebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/schuze062019.png
+image: posts/2019/schuze062019.png
 published: true
 ---
 ** VEŘEJNÁ SCHŮZE MS ČESKOTŘEBOVSKO**

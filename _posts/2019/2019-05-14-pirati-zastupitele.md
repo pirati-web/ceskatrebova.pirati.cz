@@ -5,7 +5,7 @@ title: NA PIVO SE ZASTUPITELI !!
 date: 2019-05-15T07:20:00.000Z
 tags: zpravy zastupitele  volby  česká trebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/napivozastupitele.jpg
+image: posts/2019/napivozastupitele.jpg
 published: true
 ---
 **S PIRÁTY NA PIVO**

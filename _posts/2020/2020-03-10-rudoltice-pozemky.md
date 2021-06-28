@@ -5,7 +5,7 @@ title: Rudoltičtí Piráti upozorňují na obecní kupčení s pozemky
 date: 2020-03-09T07:11:00.000Z
 tags: rudoltice 
 author: Piráti Česká Třebová
-image: assets/img/posts/2020/rudoltice1.jpg
+image: posts/2020/rudoltice1.jpg
 published: true
 ---
 **Místní piráti, konkrétně Tomáš Kolomý, který je v obci opozičním zastupitelem, poukazují na další z mnoha netypických rozhodnutí obecního zastupitelstva. Obec mohla v rámci předkupního práva odkoupit pozemek za 622 000,- Kč a následně ho nabídnout k prodeji. Toto právo však vedení obce nevyužilo a přenechalo pozemek spekulantovi, který ho následně bude prodávat svému kupci za 1,2 milionu.**

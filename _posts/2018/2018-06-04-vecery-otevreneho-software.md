@@ -5,7 +5,7 @@ title: Večery otevřeného software
 date: 2018-06-03T09:00:00.000Z
 tags: PaRo Linux
 author: Jiří Ducháček
-image: assets/img/posts/2018/vos201804.jpg
+image: posts/2018/vos201804.jpg
 published: true
 ---
 
