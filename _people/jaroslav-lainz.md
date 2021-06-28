@@ -4,6 +4,7 @@ name: Jaroslav Lainz
 fullname: Mgr. Jarosla Lainz
 category:
   - pms
+  - kontaktni_osoba
 img: people/jaroslav.lainz.png           # 165 x 220
 description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
 candidatedesc: pedafog
