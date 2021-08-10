@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Letní kino Pirátů a Starostů v České Třebové
-date: 2021-08-05T21:OO:00.000Z
+date: 2021-08-05T21:00:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
 image: letni-kino.jpg
