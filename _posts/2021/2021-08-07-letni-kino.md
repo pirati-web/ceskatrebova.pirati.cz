@@ -1,13 +1,14 @@
 ---
 layout: post
 category: CLANKY
-title: Letní kino Pirátů a Starostů v České Třebové
-date: 2021-08-05T21:00:00.000Z
-tags: ceska-trebova
-author: Piráti Česká Třebová
-image: letni-kino.jpg
-published: true
+title: Dělá Pardubický kraj dostatek pro podporu domácí zdravotní a paliativní péče?
+date: 2021-03-24T14:00:00+0200
+tags: 
+    - ceska-trebova
+author: Piráti Pardubického kraje
+image: articles/2021/letni-kino.jpg
 ---
+
 **V sobotu 7.8. jsme zorganizovali akci Letní kino Pirátů a Starostů v České Třebové.** 
 
 V restauraci Na Horách jste si večer 7. srpna mohli popovídat s našimi kandidáty a členy, posedět nebo si odpočinout po pracovním shonu v klidném prostředí bývalých lázní. Od 21.00 zde potom proběhlo promítání filmu **Po strništi bos**.
