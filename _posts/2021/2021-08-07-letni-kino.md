@@ -6,7 +6,7 @@ date: 2021-03-24T14:00:00+0200
 tags: 
     - ceska-trebova
 author: Piráti Pardubického kraje
-image: articles/2021/letni-kino.jpg
+image: posts/2021/letni-kino.jpg
 ---
 
 **V sobotu 7.8. jsme zorganizovali akci Letní kino Pirátů a Starostů v České Třebové.** 
