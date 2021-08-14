@@ -5,7 +5,7 @@ title: Letní kino Pirátů a Starostů v České Třebové
 date: 2021-08-05T21:OO:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
-image: letni-kino.jpg
+image: assets/img/posts/2021/letni-kino.jpg
 published: true
 ---
 **V sobotu 7.8. jsme zorganizovali akci Letní kino Pirátů a Starostů v České Třebové.** 
