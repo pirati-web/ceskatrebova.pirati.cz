@@ -8,9 +8,9 @@ author: Piráti Česká Třebová
 image: posts/2021/
 published: true
 ---
-V rámci akce **Setkejte se s Piráty a Starosty ve vašem městě** jsme v pátek navštívili Lanškroun, kde se náš lídr za Pardubický kraj Mikuláš Ferjenčík a místopředseda MS Českotřebovsko – Standa Dufek – setkali s místním starostou Radimem Vetchým.
+**V rámci akce Setkejte se s Piráty a Starosty ve vašem městě jsme v pátek navštívili Lanškroun, kde se náš lídr za Pardubický kraj Mikuláš Ferjenčík a místopředseda MS Českotřebovsko – Standa Dufek – setkali s místním starostou Radimem Vetchým.**
 
-Ten nás seznámil s činností firem sídlících v Lanškrouně. Řeč padla i na **zdravotnictví**, kde největším problémem je nedostatek dětských lékařů. Zabývali jsme se také **školstvím** a dostupností vzdělání v daném regionu, **investicemi města** (kde v tuto chvíli největším počinem je stavba polikliniky za 120 milionů), péčí o **životní prostředí** nebo jaké **kulturní a společenské** akce Lanškroun pořádá.
+V pátek 13.srpna se náš lídr za Pardubický kraj Mikuláš Ferjenčík a místopředseda MS Českotřebovsko – Standa Dufek – setkali s místním starostou Radimem Vetchým. Ten nás seznámil s činností firem sídlících v Lanškrouně. Řeč padla i na **zdravotnictví**, kde největším problémem je nedostatek dětských lékařů. Zabývali jsme se také **školstvím** a dostupností vzdělání v daném regionu, **investicemi města** (kde v tuto chvíli největším počinem je stavba polikliniky za 120 milionů), péčí o **životní prostředí** nebo jaké **kulturní a společenské** akce Lanškroun pořádá.
 
 Mikuláš Ferjenčík měl také možnost zodpovědět dotazy týkající se činnosti Sněmovny. Nejdiskutovanějším bodem se potom stal nedávno schválený stavební zákon.
 
