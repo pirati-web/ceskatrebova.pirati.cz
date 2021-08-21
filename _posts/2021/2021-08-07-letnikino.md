@@ -5,7 +5,7 @@ title: V sobotu 7.8. jsme zorganizovali akci Letní kino Pirátů a Starostů v 
 date: 2021-08-07T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
-image: posts/2021/letni-kino.jpg
+image: posts/2021/jezevcik.jpg
 published: true
 ---
 **V sobotu 7.8. jsme zorganizovali akci Letní kino Pirátů a Starostů v České Třebové.** 
