@@ -1,4 +1,5 @@
 ---
+---
 layout: post
 category: CLANKY
 title: V sobotu 7.8. jsme zorganizovali akci Letní kino Pirátů a Starostů v České Třebové.
