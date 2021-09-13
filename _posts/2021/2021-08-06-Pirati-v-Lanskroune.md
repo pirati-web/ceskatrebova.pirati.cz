@@ -16,4 +16,4 @@ Mikuláš Ferjenčík měl také možnost zodpovědět dotazy týkající se či
 
 Radim Vetchý nás potom provedl po městě. Měli jsme tak možnost se podívat i na právě probíhající výstavbu nové polikliniky. Celá schůzka byla završena v 17.00, kdy měl místní starosta příjemnou povinnost odstartovat *Mezinárodní cyklistický etapový závod mládežnických kategorií zvaný "Malý závod míru 2021 AVX"*.
 
-Celou návštěvu jsme zakončili u Lanškrounských rybníků, kde jsme si popovídali s místními a probrali i jejich dotazy k naší koalici.
+Celou návštěvu jsme zakončili u Lanškrounských rybníků, kde jsme si popovídali s místními a probrali i jejich dotazy k naší koalici. 
