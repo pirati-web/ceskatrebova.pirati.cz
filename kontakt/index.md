@@ -5,8 +5,7 @@ description: Pirátská strana v České Třebové je otevřená a ráda přiví
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - josef.kocourek
-  - zuzana.bohmova
+  - jaroslav.lainz
 ---
  <h1>Přidejte se k nám</h1>
 
