@@ -10,7 +10,7 @@ published: true
 ---
 ****V pondělí 13. září proběhlo v České Třebové jednání zastupitelstva města.** Přinášíme krátký report pro všechny, kteří se této schůze nemohli zúčastnit:**
 
-•  Prvním bodem byly **majetkové záležitosti** a v jejich rámci proběhlo schválení prodeje bytových jednotek na Trávníku, tzv. " Jezevčík ". Náš postoj jsme prezentovali již dříve zde: [https://ceskatrebova.pirati.cz/aktuality/jezevcik.html](https://ceskatrebova.pirati.cz/aktuality/jezevcik.html)
+•  Prvním bodem byly **majetkové záležitosti** a v jejich rámci proběhlo schválení prodeje bytových jednotek na Trávníku, tzv. " Jezevčík ". Náš postoj jsme prezentovali již dříve zde:  [https://ceskatrebova.pirati.cz/aktuality/jezevcik.html](https://ceskatrebova.pirati.cz/aktuality/jezevcik.html)
 
 •  Následovalo i **několik návrhů změn v územním plánu**. Zde jsme podpořili alternativní variantu na možnou změnu plochy zeleně na plochu, kde by byla v budoucnu možná výstavba. V současné době tato alternativa naráží na zákonná omezení, ta by se ovšem mohla časem změnit. Bohužel - nepanovala větší shoda v zastupitelstvu, takže námi podporovaná varianta neprošla.
 
