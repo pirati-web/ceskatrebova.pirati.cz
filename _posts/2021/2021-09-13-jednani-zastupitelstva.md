@@ -3,7 +3,8 @@ layout: post
 category: CLANKY
 title: Jednání Zastupitelstva města Česká Třebová (13.9.2021)
 date: date: 2021-03-24T14:00:00+0200
-tags: ceska-trebova
+tags: 
+      - ceska-trebova
 author: Piráti Česká Třebová
 image: articles/2021/zastupitelstvo.jpg
 published: true
