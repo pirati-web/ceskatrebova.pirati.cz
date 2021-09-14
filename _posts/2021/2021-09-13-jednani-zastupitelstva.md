@@ -6,7 +6,7 @@ date: 2021-03-24T14:00:00+0200
 tags: 
       - ceska-trebova
 author: Piráti Česká Třebová
-image: articles/2021/zastupitelstvo.jpg
+image: assets/img/posts/2021/zastupitelstvo.jpg
 ---
 
 ****V pondělí 13. září proběhlo v České Třebové jednání zastupitelstva města.** Přinášíme krátký report pro všechny, kteří se této schůze nemohli zúčastnit:**
