@@ -5,10 +5,15 @@ title: Piráti a Starostové v Lanškrouně
 date: 2021-08-06T15:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
+<<<<<<< HEAD
 image: posts/2021/piratiLA.jpg
+=======
+image:
+>>>>>>> c1dd016898517dbf8fee847ec572db07ece6c3ad
 published: true
 ---
 V rámci akce **Setkejte se s Piráty a Starosty ve vašem městě** jsme v pátek 6. srpna 2021 navštívili Lanškroun, kde se náš lídr za Pardubický kraj Mikuláš Ferjenčík a místopředseda MS Českotřebovsko – Standa Dufek – setkali s místním starostou Radimem Vetchým.
+
 
 Ten nás seznámil s činností firem sídlících v Lanškrouně. Řeč padla i na **zdravotnictví**, kde největším problémem je nedostatek dětských lékařů. Zabývali jsme se také **školstvím** a dostupností vzdělání v daném regionu, **investicemi města** (kde v tuto chvíli největším počinem je stavba polikliniky za 120 milionů), péčí o **životní prostředí** nebo jaké **kulturní a společenské** akce Lanškroun pořádá.
 
