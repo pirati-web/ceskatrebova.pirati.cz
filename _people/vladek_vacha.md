@@ -6,7 +6,7 @@ category:
   - pak
 img: people/vladek_vacha.png
 heroImg: header/background.jpg
-description: člen Pirátské strany, Místopředseda Krajského sdružení 
+description: člen Pirátské strany, Místopředseda Krajského sdružení, Člen výborů Zastupitelstva Pardubického kraje pro dopravu a dopravní obslužnost a výboru pro kulturu a památkovou péči 
 candidatedesc: technolog
 ordpak: 8
 mail:
@@ -23,7 +23,7 @@ published: true
 
 (* 8. srpna 1980) 
 
-*Místopředseda Krajského sdružení Pirátské strany v Pardubickém kraji. Garant Krajského Expertního Týmu Kultura a člen KETů Bezpečnost, Doprava, Sport, Průmysl, Sociální oblast a cestovní ruch.* 
+*Místopředseda Krajského sdružení Pirátské strany v Pardubickém kraji. Člen výborů Zastupitelstva Pardubického kraje pro dopravu a dopravní obslužnost a výboru pro kulturu a památkovou péči. Garant Krajského Expertního Týmu Kultura a člen KETů Bezpečnost, Doprava, Sport, Průmysl, Sociální oblast a cestovní ruch.* 
 
 Vladek Vácha pochází z města Česká Třebová a od roku 2017 žije v obci Mistrovice na Králicku.
 
