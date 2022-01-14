@@ -20,17 +20,10 @@ profiles:
   linkedin: null
 published: true
 ---
-Jsem člověk, který se o politiku zajímá od roku 2010 a to poté, co nám město
-zakázalo používat veřejné piáno, které nám Rada nejdříve schválila a po týdnu kvůli
-stížnostem několika obyvatel zakázala. To byl pro mne zásadní bod, který mě přesvědčil,
-že pokud chci něco ve městě změnit, tak musím začít sám a nečekat na to, že to
-za mě udělá někdo jiný. Kromě piána jsem několik let organizoval komunitní akci
-Bleší trhy v Javorce, s přáteli jsme iniciovali veřejnou knihovničku v podobě
-piána na nádraží. Přes sedm let pracuji jako Pracovník v sociálních službách a
-vidím několik nedostatků, které by se daly změnit díky lepší komunikaci s neziskovým sektorem, městskými organizacemi a odbory.
-Podporuji plnou transparentnost v rozdělování sociálních bytů a zavedení třístupňového
-propustného bydlení, který poskytuje sociálně vyloučeným či handicapovaným šanci osvojit
-si znalosti a dovednosti nezbytné k udržení trvalého bydlení – propustnost spočívá
-v tom, že je možná cesta nahoru i zpátky, do ubytovny. Osobně cítím, že je potřeba
-něco změnit. A kdy to změnit, když ne v říjnu při volbách?
-**Pojďte s námi otevřít radnici!**
+O politiku jsem se začal aktivně zajímat kvůli negativním zkušenostem v mém městě Česká Třebová. Jako organizátor několika občanských aktivit (piana na ulici, Bleší trhy aj.) jsem po letech zjistil, že pokud se aktivně neangažujete do politického vývoje města, nedokážete prosadit a změnit zásadně nic. Dřívější politická reprezentace města nechápala občanské aktivity mé generace a zesměšňováním mi do těchto aktivit házela tzv. klacky pod nohy. Toto chování mě inspirovalo aktivně se zapojit do politického dění
+
+Politicky aktivní jsem začal býti po roce 2010 a postupem času jsem získal mnohé zkušenosti z komunitní, krajské a celostátní politiky ve Straně zelených pod vedením Ondřeje Lišky.
+
+Dlouhodobě jsem zajišťoval organizace mnoha kampaní, koordinoval a organizoval jsem politické akce a zapojoval mnoho lidi do politického dění.
+
+V roce 2018 jsem vstoupil do Pirátské strany, ve které jsem se stal vedoucím krajského mediálního odboru. Na této funkci jsem mohl realizovat mé zkušenosti a pomoci krajským zastupitelů získat 7 mandátů. Ve volbách do poslanecké sněmovny v roce 2020 jsem se aktivně zapojil do společné kampaně Pirátů a Starostů v Pardubickém kraji. Zde jsem řešil mnohá úskalí, organizoval aktivity, staral se o sociální sítě, a podporoval společné kandidáty.
