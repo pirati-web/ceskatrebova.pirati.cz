@@ -1,7 +1,7 @@
 ---
 uid: jan.dolezal
 name: Jan Doležal
-fullname: Jiří Ducháček
+fullname: Jan Doležal
 category:
   - zast
 img: people/jan_dolezal.jpg
