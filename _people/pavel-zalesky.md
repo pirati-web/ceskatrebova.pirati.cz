@@ -10,7 +10,7 @@ description: člen Pirátské strany
 candidatedesc: lektor dopravy
 ordpak: 10
 mail:
-#  - zaleskyp@gmail.com
+  - zaleskyp@gmail.com
 mob: null
 profiles:
   github: null
