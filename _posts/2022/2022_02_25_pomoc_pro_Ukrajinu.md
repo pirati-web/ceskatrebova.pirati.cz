@@ -16,8 +16,8 @@ I když nemůžeme proti zlu bojovat zbraněmi, můžeme Ukrajincům pomoci jin�
 
 Zároveň upozorňujeme, že o situaci na Ukrajině se zásluhou dezinformačních serverů a lidí, kteří jim věří, šíří spousta lží a polopravd. Ujistěte se vždy prosím o důvěryhodnosti Vašeho informačního zdroje, než jeho informacím uvěříte.  
 
-Pomoci Ukrajině může každý. Vyberte si, jak chcete pomoci Vy.  
-Zde vám nabízíme přehled možností: 
+**Pomoci Ukrajině může každý. Vyberte si, jak chcete pomoci Vy.  
+Zde vám nabízíme přehled možností:** 
 [https://www.facebook.com/events/826279394846177](https://www.facebook.com/events/826279394846177)
 
 Zlo je zlem, ať si říká jakkoli.
