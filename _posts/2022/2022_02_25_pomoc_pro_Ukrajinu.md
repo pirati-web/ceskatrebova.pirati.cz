@@ -9,6 +9,7 @@ image: posts/2022/pomoc_UK.jpg
 published: true
 ---
 **Také my, Piráti Českotřebovska, odsuzujeme napadení Ukrajiny Ruskou federací.** 
+
 Jde o jednoznačné porušení mezinárodního práva, které bude mít bolestné následky pro miliony lidí, včetně nás, občanů ČR. Protože s podobnou okupací máme vlastní historické zkušenosti, stojíme na straně ukrajinského lidu a vyzýváme k ukončení tohoto barbarského jednání.  
 
 I když nemůžeme proti zlu bojovat zbraněmi, můžeme Ukrajincům pomoci jinými způsoby. Můžeme přispět finančně, nabídnout jinou pomoc, nebo alespoň to nejmenší: Jasně se přihlásit k tomu, že přinejmenším myšlenkami stojíme na straně Ukrajinců bojujících o vlastní svobodnou zemi.  
