@@ -5,7 +5,7 @@ title: Pomoc pro Ukrajinu
 date: 2022-02-25T20:00:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
-image: posts/2022/pomoc_pro_Ukrajinu.jpg
+image: posts/2022/pomoc_UK.jpg
 published: true
 ---
 **Také my, Piráti Českotřebovska, odsuzujeme napadení Ukrajiny Ruskou federací.** 
