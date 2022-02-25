@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pomoc pro Ukrajinu
-date: 2022-02-25T20:00:00.000Z
+date: 2022-02-24T20:00:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
 image: posts/2022/pomoc_UK.jpg
